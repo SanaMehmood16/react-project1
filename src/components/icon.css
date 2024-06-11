@@ -1,0 +1,22 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.icn{
+    color: rgb(246, 248, 250);
+    background-color: rgb(37, 37, 37);
+    
+}
+.icons{
+    background-color: black;
+    margin: 0px 528px;
+    text-align: center;
+    padding: 10px 0px;
+}
+.space{
+    padding: 8px;
+    font-size: 25px;
+    color: gray;
+}
